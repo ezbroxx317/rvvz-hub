@@ -536,9 +536,3 @@ Tab:AddButton({
     loadstring(game:HttpGet("https://raw.githubusercontent.com/cbhlyy/lyycbh/main/shizizhen"))()
   end
 })
-
-OrionLib:Init()
-    else
-        game.Players.LocalPlayer:Kick("没卡密还想玩去S，S马玩意儿，作者QQ3075008157")
-    end
-end)
